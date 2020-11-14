@@ -1,0 +1,6 @@
+name = "WaterMeanMeanForce driver scripts"
+authors = ["Dmitri Iouchtchenko <diouchtc@uwaterloo.ca>"]
+
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+WaterMeanMeanForce = "a3c7b648-96d7-11e9-22f5-bbce7b1e1b72"
